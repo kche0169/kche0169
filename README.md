@@ -19,6 +19,9 @@
 
 
 ## My side projects🤔
+### About OS
+### About Networks
+### About AI
 
 ## Github Stat⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
@@ -27,6 +30,7 @@
 - Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
 - linkedin: TBD
+- Bilibili: TBD
 - Blog: To be continued
 <!--
 **kche0169/kche0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
