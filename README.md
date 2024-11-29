@@ -20,8 +20,7 @@
 
 ## My side projects🤔
 ### About OS
-	1.	项目1
- > **Note:** .
+	1.
 	2.
 > 
 ### About Networks
