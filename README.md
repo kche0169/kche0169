@@ -2,7 +2,7 @@
 
 
 
-## Hi there I'm kche👋
+## Hi there I'm kche aka ShiraTake👋
 - 🔭 我目前在GAP中。
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
