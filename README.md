@@ -25,7 +25,7 @@
 
 ## How to reach me📫
 - Email: [![Email](https://img.shields.io/badge/shiratakekanpakuji@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
-- 
+- linkedin: [![linkedin](https://img.shields.io/badge/www.linkedin.com/in/kaiyong-chen-38656a248?style=flat-square&logo=twitter&logoColor=white)](www.linkedin.com/in/kaiyong-chen-38656a248) 
 <!--
 **kche0169/kche0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
