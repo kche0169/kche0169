@@ -11,6 +11,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 关于我的技术栈🔧
+
+
+## Get in touch
 <!--
 **kche0169/kche0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
