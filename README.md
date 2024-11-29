@@ -24,7 +24,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
 
 ## How to reach me📫
-- Email: [![Email](https://img.shields.io/badge/shiratakekanpakuji@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
 - linkedin: [![linkedin](https://img.shields.io/badge/www.linkedin.com/in/kaiyong-chen-38656a248?style=flat-square&logo=twitter&logoColor=white)](www.linkedin.com/in/kaiyong-chen-38656a248)
 - Blog: To be continued
