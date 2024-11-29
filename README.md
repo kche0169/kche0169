@@ -20,7 +20,7 @@
 
 ## My side projects🤔
 ### About OS
-	1.
+1. 
 	2.
 
 ### About Networks
