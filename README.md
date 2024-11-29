@@ -17,7 +17,7 @@
 ## 我的项目
 
 ## Github Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
 
 ## How to reach me📫
 <!--
