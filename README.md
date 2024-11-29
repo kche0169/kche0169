@@ -20,10 +20,15 @@
 
 ## My side projects🤔
 ### About OS
-1. 
-2. 
+1. 本项目来自于清华大学的开源操作系统项目 
+2. CSAPP Labs
+3. 
 
 ### About Networks
+1. CS144
+2. CSAPP Proxy Lab
+3. Protobuf - xx
+4. 
 ### About AI
 1. 本项目是基于CS188创建，用于学习传统的AI算法，主要包括各类寻路算法和强化学习（以single agent为主）。
 2.
