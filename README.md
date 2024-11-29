@@ -16,6 +16,9 @@
 
 ## 我的项目
 
+## Github Stat
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169theme=dark&show_icons=true)
+
 ## How to reach me📫
 <!--
 **kche0169/kche0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
