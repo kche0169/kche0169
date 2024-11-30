@@ -54,6 +54,7 @@
 2.
 ## Github Stat⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
 ## How to reach me📫
 - Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
