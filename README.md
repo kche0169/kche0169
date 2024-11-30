@@ -47,7 +47,7 @@
 ### About Networks
 1. CS144
 2. CSAPP Proxy Lab
-3. Protobuf - xx
+3. Protobuf - Bridge
 4. 
 ### About AI
 1. 本项目是基于CS188创建，用于学习传统的AI算法，主要包括各类寻路算法和强化学习（以single agent为主）。
