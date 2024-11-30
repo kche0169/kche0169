@@ -27,7 +27,7 @@
 1. **Programming Languages**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,sql" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql" />
   </a>
 </p>
 2. **Frameworks & Libraries**  
