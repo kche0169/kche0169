@@ -32,7 +32,7 @@
    - **SQL** 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=Rust,Python,c,c++,go,SQL" />
   </a>
 </p>
 2. **Frameworks & Libraries**  
