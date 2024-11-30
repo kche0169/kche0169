@@ -43,12 +43,9 @@
 </p>
 
 3. **Tools & Platforms**  
-   - **Docker**    
-   - **Git** 
-   - **Anaconda**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,anaconda" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,anaconda" />
   </a>
 </p>
 
