@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 
 ## 我目前感兴趣的领域💬
-
+  My main interest lies in Operating Systems and Low-Level Programming, particularly in developing efficient system-level software, memory management, and hardware interaction. I'm actively working on contributing to projects that involve Rust and C to build fast, reliable, and secure operating systems.
 ## My Tech Stack🔧
 
 
