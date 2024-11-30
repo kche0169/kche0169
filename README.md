@@ -48,7 +48,7 @@
    - **Anaconda**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,anaconda" />
+    <img src="https://skillicons.dev/icons?i=docker, git,anaconda" />
   </a>
 </p>
 
