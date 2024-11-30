@@ -40,7 +40,7 @@
    - **SQL** 
 
 2. **Frameworks & Libraries**  
-   - **TensorFlow** / **PyTorch** (For building machine learning models, with a focus on deep learning)  
+   - **TensorFlow** / **PyTorch**   
    - **Protobuf**   
    - **Grpc** 
    - **RustSBI**  
