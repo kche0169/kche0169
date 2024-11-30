@@ -45,7 +45,13 @@
 3. **Tools & Platforms**  
    - **Docker**    
    - **Git** 
-   - **Anaconda** 
+   - **Anaconda**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,anaconda" />
+  </a>
+</p>
+
 4. **Databases**  
    - **PostgreSQL**  
    - **MongoDB** 
