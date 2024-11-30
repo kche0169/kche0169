@@ -20,7 +20,7 @@
 
 5. **Computer Networks & Security**  
    I have a keen interest in **network security**, from securing communication protocols to defending against cyber threats. I am also interested in **cryptography**, building secure network architectures, and understanding the vulnerabilities that exist in modern systems.
-## Looking forward to learning
+## Looking forward to learning🌱
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
 
