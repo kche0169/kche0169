@@ -25,11 +25,6 @@
 > Here are some of the key technologies I'm currently working with:
 
 1. **Programming Languages**  
-   - **Rust**  
-   - **Python** 
-   - **C/C++**  
-   - **Go**  
-   - **SQL** 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,sql" />
