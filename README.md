@@ -32,7 +32,7 @@
    - **SQL** 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Rust,Python,c,c++,go,SQL" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,sql" />
   </a>
 </p>
 2. **Frameworks & Libraries**  
