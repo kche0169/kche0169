@@ -14,7 +14,23 @@
 
 ## 我目前感兴趣的领域💬
 >  I have a broad range of interests in computer science, particularly in the following areas
-  My main interest lies in Operating Systems and Low-Level Programming, particularly in developing efficient system-level software, memory management, and hardware interaction. I'm actively working on contributing to projects that involve Rust and C to build fast, reliable, and secure operating systems.
+1. **Artificial Intelligence & Machine Learning**  
+   I am passionate about developing intelligent systems that can learn and adapt. My interests include deep learning, natural language processing, reinforcement learning, and AI applications in automation and decision-making.
+
+2. **Operating Systems & Low-Level Programming**  
+   I am fascinated by how operating systems work under the hood, and I enjoy contributing to projects that involve **Rust** and **C** to build fast and reliable systems software, particularly in memory management, scheduling, and system calls.
+
+3. **Concurrency & Distributed Systems**  
+   I am interested in designing and optimizing systems for **concurrency** and **distributed computing**, particularly in the areas of multi-threading, task scheduling, and building fault-tolerant systems. I strive to create applications that are scalable, efficient, and can handle high loads.
+
+4. **Programming Languages & Systems Design**  
+   I'm particularly drawn to **Rust** for its combination of safety and performance. I am constantly exploring new ways to design software systems that are both robust and highly optimized, with a focus on low-level memory management and system performance.
+
+5. **Computer Networks & Security**  
+   I have a keen interest in **network security**, from securing communication protocols to defending against cyber threats. I am also interested in **cryptography**, building secure network architectures, and understanding the vulnerabilities that exist in modern systems.
+
+6. **Data Science & Data Visualization**  
+   I enjoy analyzing data to uncover hidden patterns and create intuitive **visualizations** that communicate insights clearly. I am actively exploring techniques in **data analytics**, **machine learning** for data analysis, and visual storytelling.
 ## My Tech Stack🔧
 
 
