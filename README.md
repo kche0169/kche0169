@@ -24,25 +24,14 @@
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
 
-1. **Programming Languages**  
+1. **Programming Languages & Frameworks & Libraries**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql,r,matlab,html,css,js,ts,pytorch" />
   </a>
 </p>
 
-2. **Frameworks & Libraries**  
-   - **TensorFlow** / **PyTorch**   
-   - **Protobuf**   
-   - **Grpc** 
-   - **RustSBI**  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,py,c,cpp,go,mysql" />
-  </a>
-</p>
-
-3. **Tools & Platforms**  
+2. **Tools & Platforms**  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,anaconda" />
