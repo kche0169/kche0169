@@ -27,14 +27,14 @@
 1. **Programming Languages & Frameworks & Libraries**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql,r,matlab,html,css,js,ts,pytorch" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql,r,matlab,html,css,js,ts,pytorch,md" />
   </a>
 </p>
 
 2. **Tools & Platforms**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,anaconda" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,vscode,ubuntu,anaconda,ros,powershell,github" />
   </a>
 </p>
 
