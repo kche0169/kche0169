@@ -30,7 +30,11 @@
    - **C/C++**  
    - **Go**  
    - **SQL** 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 2. **Frameworks & Libraries**  
    - **TensorFlow** / **PyTorch**   
    - **Protobuf**   
@@ -63,7 +67,6 @@
 2.
 ## Github Stat⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kche0169&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 ## How to reach me📫
 - Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
