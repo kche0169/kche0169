@@ -49,12 +49,6 @@
   </a>
 </p>
 
-4. **Databases**  
-   - **PostgreSQL**  
-   - **MongoDB** 
-   - **Redis**
-5. **Operating Systems**  
-   - **Linux** 
 ## My side projects🤔
 ### About OS
 1. 本项目来自于清华大学的开源操作系统项目 
