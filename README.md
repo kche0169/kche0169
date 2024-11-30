@@ -30,9 +30,37 @@
    I have a keen interest in **network security**, from securing communication protocols to defending against cyber threats. I am also interested in **cryptography**, building secure network architectures, and understanding the vulnerabilities that exist in modern systems.
 
 ## My Tech Stack🔧
+> Here are some of the key technologies I'm currently working with:
 
+1. **Programming Languages**  
+   - **Rust**  
+   - **Python** 
+   - **C/C++**  
+   - **Go**  
+   - **SQL** 
 
+2. **Frameworks & Libraries**  
+   - **TensorFlow** / **PyTorch** (For building machine learning models, with a focus on deep learning)  
+   - **Rocket** (Rust framework for web development)  
+   - **Flask** (Lightweight Python web framework for building APIs)  
+   - **D3.js** (For data visualization and interactive web-based graphics)  
+   - **Actix** (A Rust framework for building highly concurrent web applications)
 
+3. **Tools & Platforms**  
+   - **Docker** (For containerization and deploying scalable applications)  
+   - **Kubernetes** (For orchestrating containerized applications in a distributed environment)  
+   - **Git** (Version control and collaboration tool I use for all my projects)  
+   - **CI/CD** (Experience with Jenkins, GitHub Actions, and GitLab CI for continuous integration and delivery)  
+   - **Anaconda** (For managing Python environments and dependencies in data science projects)
+
+4. **Databases**  
+   - **PostgreSQL** (Experience with relational databases and writing complex queries)  
+   - **MongoDB** (Used for NoSQL database management and document storage)  
+   - **Redis** (Familiar with using Redis for caching and real-time data processing)
+5. **Operating Systems**  
+   - **Linux** 
+   - **macOS** (Primary development environment for many personal projects)  
+   - **Windows** (Familiar with Windows-based development tools and environment)
 ## My side projects🤔
 ### About OS
 1. 本项目来自于清华大学的开源操作系统项目 
