@@ -27,7 +27,7 @@
 1. **Programming Languages**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,go,mysql,r,matlab" />
   </a>
 </p>
 
@@ -36,6 +36,11 @@
    - **Protobuf**   
    - **Grpc** 
    - **RustSBI**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,py,c,cpp,go,mysql" />
+  </a>
+</p>
 
 3. **Tools & Platforms**  
    - **Docker**    
