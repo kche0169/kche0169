@@ -29,8 +29,6 @@
 5. **Computer Networks & Security**  
    I have a keen interest in **network security**, from securing communication protocols to defending against cyber threats. I am also interested in **cryptography**, building secure network architectures, and understanding the vulnerabilities that exist in modern systems.
 
-6. **Data Science & Data Visualization**  
-   I enjoy analyzing data to uncover hidden patterns and create intuitive **visualizations** that communicate insights clearly. I am actively exploring techniques in **data analytics**, **machine learning** for data analysis, and visual storytelling.
 ## My Tech Stack🔧
 
 
