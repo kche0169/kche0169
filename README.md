@@ -16,6 +16,7 @@
 
 ## Looking forward to learning🌱
    1. Looking forward to learning **QEMU**, particularly its role in system-level virtualization and testing different OS environments.
+   2. I am interested in the design and optimization of distributed systems.
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
 
@@ -35,7 +36,7 @@
 
 ## My side projects🤔
 ### About OS
-1. 本项目来自于清华大学的开源操作系统项目 
+1. Rcore
 2. CSAPP Labs
 3. 
 
