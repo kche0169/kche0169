@@ -47,7 +47,7 @@
 1. 本项目是基于CS188创建，用于学习传统的AI算法，主要包括各类寻路算法和强化学习（以single agent为主）。
 2.
 ## Github Stat⚡
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=graywhite&show_icons=true)
 ## How to reach me📫
 - Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
