@@ -9,7 +9,7 @@
 1. **Single-Agent & Multi-Agent Planning and Decision Making**  
    - I am particularly interested in the field of Single-Agent and Multi-Agent Planning and Decision Making, with a focus on developing intelligent systems capable of autonomous decision-making and efficient problem-solving in dynamic environments.
    - I am currently participating in a multi-agent planning competition [Robot Runners](https://www.leagueofrobotrunners.org/), where the goal is to enable agents to collaborate or compete in complex environments. I am looking for like-minded individuals to join, collaborate, and tackle the challenges together.
-         > If you have interested in this competition, please contacted with me.
+    > If you have interested in this competition, please contacted with me.
 3. **Operating Systems & Low-Level Programming**  
    I am fascinated by how operating systems work under the hood, and I enjoy contributing to projects that involve **Rust** and **C** to build fast and reliable systems software, particularly in memory management, scheduling, and system calls.
 
