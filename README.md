@@ -6,20 +6,14 @@
 
 ## 我目前感兴趣的领域💬
 >  I have a broad range of interests in computer science, particularly in the following areas
-1. **Artificial Intelligence & Machine Learning**  
-   I am passionate about developing intelligent systems that can learn and adapt. My interests include deep learning, natural language processing, reinforcement learning, and AI applications in automation and decision-making.
+1. **Single-Agent & Multi-Agent Planning and Decision Making**  
+   I am particularly interested in the field of Single-Agent and Multi-Agent Planning and Decision Making, with a focus on developing intelligent systems capable of autonomous decision-making and efficient problem-solving in dynamic environments.
+   I am currently participating in a multi-agent planning competition, where the goal is to enable agents to collaborate or compete in complex environments. I am looking for like-minded individuals to join, collaborate, and tackle the challenges together.
 
-2. **Operating Systems & Low-Level Programming**  
+3. **Operating Systems & Low-Level Programming**  
    I am fascinated by how operating systems work under the hood, and I enjoy contributing to projects that involve **Rust** and **C** to build fast and reliable systems software, particularly in memory management, scheduling, and system calls.
 
-3. **Concurrency & Distributed Systems**  
-   I am interested in designing and optimizing systems for **concurrency** and **distributed computing**, particularly in the areas of multi-threading, task scheduling, and building fault-tolerant systems. I strive to create applications that are scalable, efficient, and can handle high loads.
 
-4. **Programming Languages & Systems Design**  
-   I'm particularly drawn to **Rust** for its combination of safety and performance. I am constantly exploring new ways to design software systems that are both robust and highly optimized, with a focus on low-level memory management and system performance.
-
-5. **Computer Networks & Security**  
-   I have a keen interest in **network security**, from securing communication protocols to defending against cyber threats. I am also interested in **cryptography**, building secure network architectures, and understanding the vulnerabilities that exist in modern systems.
 ## Looking forward to learning🌱
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
