@@ -2,7 +2,7 @@
 
 
 
-## Hi there I'm kche aka ShiraTake👋
+## Hi there, I'm kche aka ShiraTake👋
 
 ## 我目前感兴趣的领域💬
 >  I have a broad range of interests in computer science, particularly in the following areas
