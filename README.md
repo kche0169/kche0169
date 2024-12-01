@@ -15,7 +15,7 @@
 
 
 ## Looking forward to learning🌱
-   1. Looking forward to learning QEMU, particularly its role in system-level virtualization and testing different OS environments.
+   1. Looking forward to learning **QEMU**, particularly its role in system-level virtualization and testing different OS environments.
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
 
