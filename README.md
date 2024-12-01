@@ -55,7 +55,7 @@
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
 - linkedin: TBD
 - Bilibili: TBD
-- Blog: To be continued
+- Blog: [To be continued](https://shiratakes-o.gitbook.io/shiratakes-o)
 <!--
 **kche0169/kche0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
