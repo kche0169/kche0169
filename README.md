@@ -36,7 +36,7 @@
 
 ## My side projects🤔
 ### About OS
-1. Rcore
+1. rCore
 2. CSAPP Labs
 3. 
 
