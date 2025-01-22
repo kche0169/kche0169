@@ -12,7 +12,8 @@
      > If you have interested in this competition, please contacted with me.
 3. **Operating Systems & Low-Level Programming**  
    I am fascinated by how operating systems work under the hood, and I enjoy contributing to projects that involve **Rust** and **C** to build fast and reliable systems software, particularly in memory management, scheduling, and system calls.
-
+3. **Operating Systems & Low-Level Programming**  
+   I am fascinated by how operating systems work under the hood, and I enjoy contributing to projects that involve **Rust** and **C** to build fast and reliable systems software, particularly in memory management, scheduling, and system calls.
 
 ## Looking forward to learning🌱
    1. Looking forward to learning **QEMU**, particularly its role in system-level virtualization and testing different OS environments.
