@@ -16,9 +16,8 @@
    I am currently interning at a database company, where my main responsibility is developing an open-source vector database. At the same time, I am deepening my understanding of database kernel principles and technologies to continuously enhance my professional skills and development capabilities.
 
 ## Looking forward to learning🌱
-   1. Looking forward to learning **QEMU**, particularly its role in system-level virtualization and testing different OS environments.
-   2. I am interested in the design and optimization of distributed systems.
-   3. I am learning to use go to create fun toy projects.
+   1. I am interested in the design and optimization of distributed systems.
+   2. I am learning to use go to create fun toy projects.
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
 
