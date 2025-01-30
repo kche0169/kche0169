@@ -32,7 +32,7 @@
 2. **Tools & Platforms**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,vscode,ubuntu,anaconda,ros,powershell,github" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,vscode,ubuntu,anaconda,ros,powershell,github,idea" />
   </a>
 </p>
 
