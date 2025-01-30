@@ -39,18 +39,14 @@
 ### About OS
 1. rCore
 2. CSAPP Labs
-3. 
-
 ### About Networks
 1. CS144
 2. CSAPP Proxy Lab
 3. Protobuf - Bridge
-4. 
 ### About Database
 1. Infinity
 ### About AI
-1. 本项目是基于CS188创建，用于学习传统的AI算法，主要包括各类寻路算法和强化学习（以single agent为主）。
-2.
+1. CS188
 ## Github Stat⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=graywhite&show_icons=true)
 ## How to reach me📫
