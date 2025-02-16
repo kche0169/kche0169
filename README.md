@@ -45,6 +45,7 @@
 3. Protobuf - Bridge
 ### About Database
 1. Infinity
+2. TinySQL
 ### About AI
 1. CS188
 ## Github Stat⚡
