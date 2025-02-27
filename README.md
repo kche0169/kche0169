@@ -4,7 +4,7 @@
 
 ## Hi there, I'm kche aka ShiraTake👋
 
-## 我目前感兴趣的领域💬
+## The fields I'm currently interested in💬
 >  I have a broad range of interests in computer science, particularly in the following areas
 1. **Single-Agent & Multi-Agent Planning and Decision Making**  
    - I am particularly interested in the field of Single-Agent and Multi-Agent Planning and Decision Making, with a focus on developing intelligent systems capable of autonomous decision-making and efficient problem-solving in dynamic environments.
