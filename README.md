@@ -37,21 +37,21 @@
 
 ## My side projects🤔
 ### About OS
-1. rCore
-2. CSAPP Labs
+#### 1. rCore
+#### 2. CSAPP Labs
 ### About Networks
-1. CS144
-2. CSAPP Proxy Lab
-3. Protobuf - Bridge
+#### 1. CS144
+#### 2. CSAPP Proxy Lab
+#### 3. Protobuf - Bridge
 ### About Database
-1. Infinity
+#### 1. Infinity
 #### 2. *[TinySQL](https://github.com/kche0169/tinyKcheSQL)*
 
 **TinySQL** is a course designed to teach you how to implement a **distributed relational database** in **Go**.  
 The name **TinySQL** indicates that it is a simplified version of **TiDB**.
 
 ### About AI
-1. CS188
+#### 1. CS188
 ## Github Stat⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=graywhite&show_icons=true)
 ## How to reach me📫
