@@ -45,7 +45,7 @@
 3. Protobuf - Bridge
 ### About Database
 1. Infinity
-#### 2. [TinySQL](https://github.com/kche0169/tinyKcheSQL)
+#### 2. *[TinySQL](https://github.com/kche0169/tinyKcheSQL)*
 
 **TinySQL** is a course designed to teach you how to implement a **distributed relational database** in **Go**.  
 The name **TinySQL** indicates that it is a simplified version of **TiDB**.
