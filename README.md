@@ -45,7 +45,7 @@
 3. Protobuf - Bridge
 ### About Database
 1. Infinity
-2. TinySQL
+2. *[TinySQL]((https://github.com/kche0169/tinyKcheSQL))*
 ### About AI
 1. CS188
 ## Github Stat⚡
