@@ -48,7 +48,7 @@
 #### 2. *[TinySQL](https://github.com/kche0169/tinyKcheSQL)*
 
 **TinySQL** is a course designed to teach you how to implement a **distributed relational database** in **Go**.  
-The name **TinySQL** indicates that it is a simplified version of **TiDB**.
+The name **TinySQL** indicates that it is a simplified version of **TiDB**. See my comments in my [blog](https://shiratakes-o.gitbook.io/shiratakes-o/guan-yu-shu-ju-ku-he-da-shu-ju-de-za-tan/shu-ju-ku-xue-xi-xiang-mu-ce-ping-tinysql-shi-fou-zhi-de-tui-jian).
 
 ### About AI
 #### 1. CS188
