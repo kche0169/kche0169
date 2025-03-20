@@ -37,7 +37,7 @@
 
 ## My side projects🤔
 ### About OS
-#### 1. rCore
+#### 1. *[rCore](https://github.com/LearningOS/2024a-rcore-kche0169)*
 #### 2. CSAPP Labs
 ### About Networks
 #### 1. CS144
