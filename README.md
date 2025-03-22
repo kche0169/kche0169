@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
 
-## 👋 Hi, I'm Kche (a.k.a ShiraTake)
+## Hi, I'm Kche (a.k.a ShiraTake)👋 
 
 ## The fields I'm currently interested in💬
 >  I have a broad range of interests in computer science, particularly in the following areas
