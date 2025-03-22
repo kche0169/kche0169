@@ -58,7 +58,7 @@ The name **TinySQL** indicates that it is a simplified version of **TiDB**. See 
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/kche0169)
 - linkedin: TBD
 - Bilibili: TBD
-- Blog: [白竹的自留地](https://shiratakes-o.gitbook.io/shiratakes-o)
+- Blog: [白竹的自留地](https://kche0169.github.io/)
 <!--
 **kche0169/kche0169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
