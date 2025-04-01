@@ -14,7 +14,7 @@
 - Research: **Multi-Agent Systems, AI Planning**    
 
 #### 🎒 High School Diploma  
-📍 **[Tian Shan School Affiliated to East China Normal University]** | 2015 - 2018  
+📍 **Tian Shan School Affiliated to East China Normal University** | 2015 - 2018  
 
 
 ## The fields I'm currently interested in💬
