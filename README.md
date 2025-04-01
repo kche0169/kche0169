@@ -8,7 +8,7 @@
 📍 **The Chinese University of Hong Kong (CUHK)**
 - Focus: **Machine Learning, Deep Learning Systems**  
 
-#### 🎓 Bachelor of Computer Science  
+#### 🎓 Bachelor of Science  
 📍 **Monash University** 
 - Relevant Coursework: **Operating Systems, Database Systems, Computer Vision, Reinforcement Learning**
 - Research: **Multi-Agent Systems, AI Planning**    
