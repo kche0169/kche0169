@@ -43,7 +43,8 @@
 #### 2. CSAPP Proxy Lab
 #### 3. Protobuf - Bridge
 ### About Database
-#### 1. Infinity
+#### 1. *[Infinity](https://github.com/kche0169/infinity)* 
+**Infinity** is an AI-native database designed for large language model (LLM) applications. 
 #### 2. *[TinySQL](https://github.com/kche0169/tinyKcheSQL)*
 
 **TinySQL** is a course designed to teach you how to implement a **distributed relational database** in **Go**.  
