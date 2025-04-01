@@ -4,14 +4,17 @@
 ## Hi, I'm Kche (a.k.a ShiraTake)👋 
 ### 🎓 Education  
 
-#### Master of Science in Information Engineering  | **The Chinese University of Hong Kong (CUHK)**
+#### 🎓 Master of Science in Information Engineering  
+📍**The Chinese University of Hong Kong (CUHK)**
 - Focus: **Machine Learning, Deep Learning Systems**  
 
-#### Bachelor of Science  | **Monash University** 
+#### 🎓 Bachelor of Science  
+📍**Monash University** 
 - Relevant Coursework: **Operating Systems, Database Systems, Computer Vision, Reinforcement Learning**
 - Research: **Multi-Agent Systems, AI Planning**    
 
-#### High School Diploma  | **Tian Shan School Affiliated to East China Normal University**   
+#### 🏫 High School Diploma  
+📍**Tian Shan School Affiliated to East China Normal University**   
 
 
 ## The fields I'm currently interested in💬
