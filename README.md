@@ -4,7 +4,7 @@
 ## Hi, I'm Kche (a.k.a ShiraTake)👋 
 ### 🎓 Education  
 
-#### 🏫 Master of Science in Artificial Intelligence  
+#### 🏫 Master of Science in Information Engineering  
 📍 **The Chinese University of Hong Kong (CUHK)**
 - Focus: **Machine Learning, Deep Learning Systems**  
 
