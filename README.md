@@ -40,8 +40,7 @@
 #### 2. CSAPP Labs
 ### About Networks
 #### 1. CS144
-#### 2. CSAPP Proxy Lab
-#### 3. Protobuf - Bridge
+#### 2. Protobuf - Bridge
 ### About Database
 #### 1. *[Infinity](https://github.com/kche0169/infinity)* 
 **Infinity** is an AI-native database designed for large language model (LLM) applications. 
