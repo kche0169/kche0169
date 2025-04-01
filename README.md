@@ -5,16 +5,16 @@
 ### 🎓 Education  
 
 #### 🏫 Master of Science in Artificial Intelligence  
-📍 **The Chinese University of Hong Kong (CUHK)** | 2026.7 
+📍 **The Chinese University of Hong Kong (CUHK)**
 - Focus: **Machine Learning, Deep Learning Systems**  
 
 #### 🎓 Bachelor of Computer Science  
-📍 **Monash University** | 2013.12 
+📍 **Monash University** 
 - Relevant Coursework: **Operating Systems, Database Systems, Computer Vision, Reinforcement Learning**
 - Research: **Multi-Agent Systems, AI Planning**    
 
 #### 🎒 High School Diploma  
-📍 **Tian Shan School Affiliated to East China Normal University** | 2015 - 2018  
+📍 **Tian Shan School Affiliated to East China Normal University**   
 
 
 ## The fields I'm currently interested in💬
