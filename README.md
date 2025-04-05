@@ -67,7 +67,7 @@ The name **TinySQL** indicates that it is a simplified version of **TiDB**. See 
 #### 1. CS188
 ## Github Stat⚡
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kche&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kche's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kche&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kche0169&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kche's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kche&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kche0169&theme=graywhite&show_icons=true)
