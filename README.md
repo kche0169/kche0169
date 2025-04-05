@@ -67,7 +67,7 @@ The name **TinySQL** indicates that it is a simplified version of **TiDB**. See 
 #### 1. CS188
 ## Github Stat⚡
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kche0169&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&bg_color=ffffff" alt="kche's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kche0169&layout=compact&theme=swiftt&hide_border=true&bg_color=ffffff" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kche0169&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&bg_color=ffffff" alt="kche's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kche0169&layout=compact&theme=swift&hide_border=true&bg_color=ffffff" /></a> |
 | ------------- | ------------- |
 ## How to reach me📫
 - Email: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shiratakekanpakuji@gmail.com)
