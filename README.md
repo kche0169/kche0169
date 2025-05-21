@@ -26,7 +26,7 @@
 2. **Operating Systems & Low-Level Programming**  
    I am fascinated by how operating systems work under the hood, and I enjoy contributing to projects that involve **Rust** and **C** to build fast and reliable systems software, particularly in memory management, scheduling, and system calls.
 3. **Database Systems & Storage Engine**  
-   I am currently interning at a database company, where my main responsibility is developing an open-source vector database. At the same time, I am deepening my understanding of database kernel principles and technologies to continuously enhance my professional skills and development capabilities.
+   ～～I am currently interning at a database company, where my main responsibility is developing an open-source vector database. At the same time, I am deepening my understanding of database kernel principles and technologies to continuously enhance my professional skills and development capabilities.～～
 4. **High Performance Networks**
 I have currently joined a quantitative firm and am engaged in developing high-performance networks and computing factors using Rust.
 
