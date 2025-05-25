@@ -33,6 +33,8 @@ I have currently joined a quantitative firm and am engaged in developing high-pe
 ## Looking forward to learning🌱
    1. I am interested in the design and optimization of distributed systems.
    2. I am learning to use go to create fun toy projects.
+   3. Some hardcore knowledge about Rust.
+   4. Vim. 
 ## My Tech Stack🔧
 > Here are some of the key technologies I'm currently working with:
 
