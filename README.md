@@ -48,7 +48,7 @@ I have currently joined a quantitative firm and am engaged in developing high-pe
 2. **Tools & Platforms**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,vscode,ubuntu,anaconda,ros,powershell,github,idea,clion" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,vscode,ubuntu,anaconda,ros,powershell,github,idea,clion,vim" />
   </a>
 </p>
 
